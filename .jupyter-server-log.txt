@@ -39,3 +39,55 @@
 [I 17:44:37.762 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-07-01 17:55:05.682 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-01 17:55:05.682 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-01 17:55:05.682 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 17:55:05.682 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-01 17:55:05.691 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-01 17:55:05.692 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 17:55:05.705 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 17:55:05.708 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 17:55:05.709 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 17:55:05.709 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 17:55:05.709 NotebookApp] http://jupyter-serifatadebola-2dregex-2d2o2nv1s3:8888/user/serifatadebola-regex-2o2nv1s3/?token=...
+[I 17:55:05.709 NotebookApp]  or http://127.0.0.1:8888/user/serifatadebola-regex-2o2nv1s3/?token=...
+[I 17:55:05.709 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:55:05.714 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:55:05.718 NotebookApp] 302 GET /user/serifatadebola-regex-2o2nv1s3/ (10.0.5.20) 1.940000ms
+[I 17:55:07.518 NotebookApp] 302 GET /user/serifatadebola-regex-2o2nv1s3/?token=fTi2UAAJSIKltiKzXgc5BQ (128.146.189.67) 0.750000ms
+[W 17:57:43.268 NotebookApp] Notebook LinearRegression.ipynb is not trusted
+[I 17:57:43.499 NotebookApp] Kernel started: 000f7951-3f86-40dc-b9bd-68da34f8cc18, name: python3
+[I 17:57:43.499 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 17:57:43.500 NotebookApp] Culling kernels even with connected clients
+[I 17:57:59.805 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 17:58:32.583 NotebookApp] Starting buffering for 000f7951-3f86-40dc-b9bd-68da34f8cc18:1fc265a451f54a29a66bbcfcae5c0a13
+Websocket closed
+[W 18:08:43.500 NotebookApp] Culling 'idle' kernel 'python3' (000f7951-3f86-40dc-b9bd-68da34f8cc18) with 0 connections due to 653 seconds of inactivity.
+[I 18:08:43.501 NotebookApp] Kernel shutdown: 000f7951-3f86-40dc-b9bd-68da34f8cc18
+[I 18:14:09.107 NotebookApp] Saving file at /LinearRegression.py
+[I 18:14:09.576 NotebookApp] Saving file at /LinearRegression.py
+[I 18:15:47.734 NotebookApp] Saving file at /LinearRegression.py
+[I 18:15:58.433 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 18:20:24.679 NotebookApp] Saving file at /LinearRegression.py
+[I 18:20:25.509 NotebookApp] Saving file at /LinearRegression.py
+[I 18:23:26.797 NotebookApp] Saving file at /LinearRegression.py
+[I 18:23:27.510 NotebookApp] Saving file at /LinearRegression.py
+Websocket closed
+[I 18:28:39.052 NotebookApp] Saving file at /LinearRegression.py
+[I 18:28:41.891 NotebookApp] Saving file at /LinearRegression.py
+[I 18:28:47.523 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
+[W 18:29:12.916 NotebookApp] delete /py_orig2.png
